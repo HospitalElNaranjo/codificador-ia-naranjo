@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codificador-ia-naranjo/static/css/main.ab1f46ef.css",
+    "main.js": "/codificador-ia-naranjo/static/js/main.4aca0073.js",
+    "static/js/453.23bb0355.chunk.js": "/codificador-ia-naranjo/static/js/453.23bb0355.chunk.js",
+    "index.html": "/codificador-ia-naranjo/index.html",
+    "main.ab1f46ef.css.map": "/codificador-ia-naranjo/static/css/main.ab1f46ef.css.map",
+    "main.4aca0073.js.map": "/codificador-ia-naranjo/static/js/main.4aca0073.js.map",
+    "453.23bb0355.chunk.js.map": "/codificador-ia-naranjo/static/js/453.23bb0355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1f46ef.css",
+    "static/js/main.4aca0073.js"
+  ]
+}
