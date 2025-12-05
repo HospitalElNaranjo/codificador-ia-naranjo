@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codificador-ia-naranjo/static/css/main.f011a468.css",
-    "main.js": "/codificador-ia-naranjo/static/js/main.e8b885c0.js",
+    "main.css": "/codificador-ia-naranjo/static/css/main.444a0984.css",
+    "main.js": "/codificador-ia-naranjo/static/js/main.b71dfc66.js",
     "static/js/453.23bb0355.chunk.js": "/codificador-ia-naranjo/static/js/453.23bb0355.chunk.js",
     "index.html": "/codificador-ia-naranjo/index.html",
-    "main.f011a468.css.map": "/codificador-ia-naranjo/static/css/main.f011a468.css.map",
-    "main.e8b885c0.js.map": "/codificador-ia-naranjo/static/js/main.e8b885c0.js.map",
+    "main.444a0984.css.map": "/codificador-ia-naranjo/static/css/main.444a0984.css.map",
+    "main.b71dfc66.js.map": "/codificador-ia-naranjo/static/js/main.b71dfc66.js.map",
     "453.23bb0355.chunk.js.map": "/codificador-ia-naranjo/static/js/453.23bb0355.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f011a468.css",
-    "static/js/main.e8b885c0.js"
+    "static/css/main.444a0984.css",
+    "static/js/main.b71dfc66.js"
   ]
 }
